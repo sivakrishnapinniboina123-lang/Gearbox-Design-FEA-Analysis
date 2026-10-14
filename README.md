@@ -1,3 +1,4 @@
+![Gearbox Design](formula1gearboxinnermechanism1%20(2).jpg)
 
 # Compact Gearbox Design - FEA Analysis
 **Tools:** SolidWorks | ANSYS | 3D Printing
